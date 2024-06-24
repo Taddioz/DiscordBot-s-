@@ -1,3 +1,12 @@
+"""
+Todd Pieper
+Created on Mon-Jul-17-2024
+Last edited: Sun-Jul-23-2024
+Implemented using discord.py API - https://discordpy.readthedocs.io/en/latest/index.html
+All work done here is my own, I do not give permission for one to copy and use it.
+Uploading all work to my GitHub ---
+"""
+
 import generalVariables as GameVars
 import random
 
